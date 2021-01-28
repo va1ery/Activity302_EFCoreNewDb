@@ -4,7 +4,7 @@ dist: bionic
 mono: none
 dotnet: 5.0
 install: 
-    - dotnet restore ./Activity302_EFCoreNewDb/Activity0302_EFCoreNewDb.csproj
+    - dotnet restore ./Activity0302_EFCoreNewDb/Activity0302_EFCoreNewDb.csproj
 script:
-    - dotnet build ./Activity302_EFCoreNewDb/Activity0302_EFCoreNewDb.csproj
-    - dotnet run ./Activity302_EFCoreNewDb/Activity0302_EFCoreNewDb/Activity0302_EFCoreNewDb.csproj
+    - dotnet build ./Activity0302_EFCoreNewDb/Activity0302_EFCoreNewDb.csproj
+    - dotnet run ./Activity0302_EFCoreNewDb/Activity0302_EFCoreNewDb/Activity0302_EFCoreNewDb.csproj
