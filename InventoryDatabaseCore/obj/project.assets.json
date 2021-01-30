@@ -1319,11 +1319,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leo\\source\\repos\\Activity0302_EFCoreNewDb\\InventoryDatabaseCore\\InventoryDatabaseCore.csproj",
+      "projectUniqueName": "C:\\Users\\leo\\source\\repos\\Activity302_EFCoreNewDb\\InventoryDatabaseCore\\InventoryDatabaseCore.csproj",
       "projectName": "InventoryDatabaseCore",
-      "projectPath": "C:\\Users\\leo\\source\\repos\\Activity0302_EFCoreNewDb\\InventoryDatabaseCore\\InventoryDatabaseCore.csproj",
+      "projectPath": "C:\\Users\\leo\\source\\repos\\Activity302_EFCoreNewDb\\InventoryDatabaseCore\\InventoryDatabaseCore.csproj",
       "packagesPath": "C:\\Users\\leo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leo\\source\\repos\\Activity0302_EFCoreNewDb\\InventoryDatabaseCore\\obj\\",
+      "outputPath": "C:\\Users\\leo\\source\\repos\\Activity302_EFCoreNewDb\\InventoryDatabaseCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

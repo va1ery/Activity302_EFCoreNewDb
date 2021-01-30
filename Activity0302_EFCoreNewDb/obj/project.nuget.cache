@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/pSYJqpGZ27NBRsuoz3wbBv4Xmq54kbk5MLzddBHyFOR5BQA/pdIU3INCC4jPEOiRFwqJTlASTef1xPWH+tCnw==",
+  "dgSpecHash": "k8X68sCIaSLzz2y4iJ84LgrrLBIJ7HpTzp/b7NmO8FGRwIHGvP3ZePlmE0wuPCD56O/e9/mGD+JxaKsB8ClvDQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leo\\source\\repos\\Activity0302_EFCoreNewDb\\Activity0302_EFCoreNewDb\\Activity0302_EFCoreNewDb.csproj",
+  "projectFilePath": "C:\\Users\\leo\\source\\repos\\Activity302_EFCoreNewDb\\Activity0302_EFCoreNewDb\\Activity0302_EFCoreNewDb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\leo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

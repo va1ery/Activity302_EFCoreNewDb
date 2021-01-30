@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fHNrVcR+v3Ee7uYq2nbJhAsG1ef8Qq871MQU/P+FUpR4HAsibxXTgUjugbT4e6JlQi9aBs9wqFgQ3BiX8qN/8w==",
+  "dgSpecHash": "c/U3M0gOU6jOBUtYkLB8jikjuQ2Xn/RBLsX3Vv9dpF/yeCm7t3vajznp2yt1E3FcJW5VlL3bTWimgE1/ocFdig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leo\\source\\repos\\Activity0302_EFCoreNewDb\\InventoryDatabaseCore\\InventoryDatabaseCore.csproj",
+  "projectFilePath": "C:\\Users\\leo\\source\\repos\\Activity302_EFCoreNewDb\\InventoryDatabaseCore\\InventoryDatabaseCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\leo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

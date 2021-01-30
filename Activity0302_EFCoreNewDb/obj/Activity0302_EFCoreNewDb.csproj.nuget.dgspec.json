@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leo\\source\\repos\\Activity0302_EFCoreNewDb\\Activity0302_EFCoreNewDb\\Activity0302_EFCoreNewDb.csproj": {}
+    "C:\\Users\\leo\\source\\repos\\Activity302_EFCoreNewDb\\Activity0302_EFCoreNewDb\\Activity0302_EFCoreNewDb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leo\\source\\repos\\Activity0302_EFCoreNewDb\\Activity0302_EFCoreNewDb\\Activity0302_EFCoreNewDb.csproj": {
+    "C:\\Users\\leo\\source\\repos\\Activity302_EFCoreNewDb\\Activity0302_EFCoreNewDb\\Activity0302_EFCoreNewDb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leo\\source\\repos\\Activity0302_EFCoreNewDb\\Activity0302_EFCoreNewDb\\Activity0302_EFCoreNewDb.csproj",
+        "projectUniqueName": "C:\\Users\\leo\\source\\repos\\Activity302_EFCoreNewDb\\Activity0302_EFCoreNewDb\\Activity0302_EFCoreNewDb.csproj",
         "projectName": "Activity0302_EFCoreNewDb",
-        "projectPath": "C:\\Users\\leo\\source\\repos\\Activity0302_EFCoreNewDb\\Activity0302_EFCoreNewDb\\Activity0302_EFCoreNewDb.csproj",
+        "projectPath": "C:\\Users\\leo\\source\\repos\\Activity302_EFCoreNewDb\\Activity0302_EFCoreNewDb\\Activity0302_EFCoreNewDb.csproj",
         "packagesPath": "C:\\Users\\leo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leo\\source\\repos\\Activity0302_EFCoreNewDb\\Activity0302_EFCoreNewDb\\obj\\",
+        "outputPath": "C:\\Users\\leo\\source\\repos\\Activity302_EFCoreNewDb\\Activity0302_EFCoreNewDb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\leo\\source\\repos\\Activity0302_EFCoreNewDb\\InventoryDatabaseCore\\InventoryDatabaseCore.csproj": {
-                "projectPath": "C:\\Users\\leo\\source\\repos\\Activity0302_EFCoreNewDb\\InventoryDatabaseCore\\InventoryDatabaseCore.csproj"
+              "C:\\Users\\leo\\source\\repos\\Activity302_EFCoreNewDb\\InventoryDatabaseCore\\InventoryDatabaseCore.csproj": {
+                "projectPath": "C:\\Users\\leo\\source\\repos\\Activity302_EFCoreNewDb\\InventoryDatabaseCore\\InventoryDatabaseCore.csproj"
               }
             }
           }
@@ -93,14 +93,14 @@
         }
       }
     },
-    "C:\\Users\\leo\\source\\repos\\Activity0302_EFCoreNewDb\\InventoryDatabaseCore\\InventoryDatabaseCore.csproj": {
+    "C:\\Users\\leo\\source\\repos\\Activity302_EFCoreNewDb\\InventoryDatabaseCore\\InventoryDatabaseCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leo\\source\\repos\\Activity0302_EFCoreNewDb\\InventoryDatabaseCore\\InventoryDatabaseCore.csproj",
+        "projectUniqueName": "C:\\Users\\leo\\source\\repos\\Activity302_EFCoreNewDb\\InventoryDatabaseCore\\InventoryDatabaseCore.csproj",
         "projectName": "InventoryDatabaseCore",
-        "projectPath": "C:\\Users\\leo\\source\\repos\\Activity0302_EFCoreNewDb\\InventoryDatabaseCore\\InventoryDatabaseCore.csproj",
+        "projectPath": "C:\\Users\\leo\\source\\repos\\Activity302_EFCoreNewDb\\InventoryDatabaseCore\\InventoryDatabaseCore.csproj",
         "packagesPath": "C:\\Users\\leo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leo\\source\\repos\\Activity0302_EFCoreNewDb\\InventoryDatabaseCore\\obj\\",
+        "outputPath": "C:\\Users\\leo\\source\\repos\\Activity302_EFCoreNewDb\\InventoryDatabaseCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
